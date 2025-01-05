@@ -1,5 +1,4 @@
 {
-  "current_version": "9.9",
-  "update_url": "https://raw.githubusercontent.com/howtomw/wADM/refs/heads/main/wADM.lua",
-  "update_info": "- new ver."
+  "latest": "25.06.2022",
+  "updateurl": "https://raw.githubusercontent.com/qrlk/moonloader-script-updater/master/minified-example.lua"
 }
